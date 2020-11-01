@@ -1,1 +1,1 @@
-Burada bulunan dosyalar, https://www.udemy.com/course/python-makine-ogrenmesi/learn/lecture/20028154#overview adresinde bulunan kursta yapılan işlemleri kapsar.
+Burada bulunan dosyalar, https://www.udemy.com/course/python-makine-ogrenmesi/learn/lecture/19164706#content adresinde bulunan Makine Öğrenmesi kursunda yapılan anlatımları ve örnek uygulamaları içermektedir. Kursun anlatımını yapan Enes Zengin ve Berkay Akalın hocalarımıza teşekkürlerimi sunarım.
